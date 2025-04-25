@@ -5,7 +5,7 @@ I'm a **Full Stack Developer** and **Mobile App Developer** with a passion for c
 - 🧠 Currently learning: TypeScript, System Design
 - 🛠️ Tech stack: React, React Native, Node.js, Express, MongoDB
 - 🌍 Always building cool projects and learning something new
-- 📫 Reach me: halwai1569@gmail.com | https://linkedin.com/in/suman-halwai
+- 📫 Reach me: halwai1569@gmail.com | https://www.linkedin.com/in/suman-halwai-8320591a7/
 
 ---
 
